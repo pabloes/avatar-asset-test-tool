@@ -2,7 +2,7 @@
     "id": "mf_frogfins",
     "name": "mf_frogfins",
     "i18n": {
-      "en": "Mana-Fever fins of sammich gamer costume"
+      "en": "Mana-Fever frog fins of sammich gamer costume"
     },
     "rarity": "legendary",
     "description": "Walk and swim like a frog",
@@ -19,13 +19,13 @@
     "main": [
                 {
                     "type": "BaseMale", 
-                    "model": "M_Feet_Frogger_Fins.glb",
+                    "model": "M_sammich_frogfins.glb",
                     "overrideReplaces": [],
                     "overrideHides": []
                 },
                 {   
                     "type": "BaseFemale", 
-                    "model": "F_Feet_Frogger_Fins.glb"
+                    "model": "F_sammich_frogfins.glb"
                 }
         ]
 }
