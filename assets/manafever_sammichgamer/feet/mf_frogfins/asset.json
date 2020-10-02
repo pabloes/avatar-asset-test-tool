@@ -11,18 +11,17 @@
         "sammichgame",
         "sammich",
         "game",
-        "frogger",
-        "frog",
-        "green",
-        "funny",
-        "multiplayer",
-        "swimming"
+        "frogger"
     ],
+    "replaces": [],
+    "hides": [],
     "category": "feet",
     "main": [
                 {
                     "type": "BaseMale", 
-                    "model": "M_Feet_Frogger_Fins.glb"
+                    "model": "M_Feet_Frogger_Fins.glb",
+                    "overrideReplaces": [],
+                    "overrideHides": []
                 },
                 {   
                     "type": "BaseFemale", 
