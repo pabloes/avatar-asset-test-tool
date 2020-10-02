@@ -17,6 +17,8 @@
         "warrior"
      ],
     "category": "hair",
+    "replaces": [],
+    "hides": [],  
     "main": [
                 {
                     "type": "BaseMale", 
