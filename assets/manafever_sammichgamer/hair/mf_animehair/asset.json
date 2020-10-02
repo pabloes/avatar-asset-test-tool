@@ -22,7 +22,9 @@
     "main": [
                 {
                     "type": "BaseMale", 
-                    "model": "U_Anime_Hair.glb"
+                    "model": "U_Anime_Hair.glb",
+                    "overrideReplaces": [],
+                    "overrideHides": []
                 },
                 {   
                     "type": "BaseFemale", 
