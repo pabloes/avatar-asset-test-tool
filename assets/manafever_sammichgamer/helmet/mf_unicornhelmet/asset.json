@@ -13,9 +13,7 @@
         "unicorn"
      ],
     "category": "helmet",
-    "replaces": [
-      "mask", "tiara", "hat", "helmet"
-     ],
+    "replaces": [],
     "hides":[],
     "main": [
         {

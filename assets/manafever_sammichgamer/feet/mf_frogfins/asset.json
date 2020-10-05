@@ -12,7 +12,7 @@
         "game",
         "frogger"
     ],
-    "replaces": ["feet"],
+    "replaces": [],
     "hides": [],
     "category": "feet",
     "main": [

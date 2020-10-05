@@ -12,7 +12,7 @@
         "game"
     ],
     "category": "upper_body",
-    "replaces":[ "upper_body"],
+    "replaces":[],
     "hides":[],
     "main": [
         {
