@@ -1,5 +1,4 @@
 {
-    "id": "mf_sammichtorso",
     "name": "mf_sammichtorso",
     "i18n": {
       "en": "Mana-Fever upperbody of sammich gamer costume"
@@ -13,10 +12,16 @@
         "game"
     ],
     "category": "upper_body",
+    "replaces":[ "upper_body"],
+    "hides":[],
     "main": [
         {
-            "type": "BaseMale", 
-            "model": "M_Torso.glb" 
+            "type": "BaseMale",  
+            "model": "M_Torso.glb",
+            "overrideReplaces": [
+            ],
+            "overrideHides": [
+            ]
         },
         {
             "type": "BaseFemale", 

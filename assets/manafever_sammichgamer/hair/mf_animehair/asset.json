@@ -1,5 +1,4 @@
 {
-    "id": "mf_animehair",
     "name": "mf_animehair",
     "i18n": {
       "en": "Mana-Fever anime hair of a warrior"
@@ -18,7 +17,7 @@
      ],
     "category": "hair",
     "replaces": [],
-    "hides": ["helmet", "hat"],  
+    "hides": ["helmet", "hat", "hair"],  
     "main": [
                 {
                     "type": "BaseMale", 

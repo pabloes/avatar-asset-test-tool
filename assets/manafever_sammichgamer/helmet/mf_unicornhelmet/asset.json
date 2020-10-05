@@ -1,5 +1,4 @@
 {
-    "id": "mf_unicornhelmet",
     "name": "mf_unicornhelmet",
     "i18n": {
       "en": "Mana-Fever unicorn helmet of sammich gamer costume"
@@ -15,8 +14,9 @@
      ],
     "category": "helmet",
     "replaces": [
-      "mask", "tiara", "hat"
+      "mask", "tiara", "hat", "helmet"
      ],
+    "hides":[],
     "main": [
         {
             "type": "BaseMale", 

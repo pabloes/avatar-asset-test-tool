@@ -1,5 +1,4 @@
 {
-    "id": "mf_wingsneakers",
     "name": "mf_wingsneakers",
     "i18n": {
       "en": "Mana-Fever wing sneakers"
@@ -19,11 +18,15 @@
         "handwritten",
         "signature"
      ],
+     "replaces": ["feet"],
+     "hides": [],
     "category": "feet",
     "main": [
                 {
                     "type": "BaseMale", 
-                    "model": "M_Sneakers.glb"
+                    "model": "M_Sneakers.glb",
+                    "overrideReplaces": [],
+                    "overrideHides": []
                 },
                 {   
                     "type": "BaseFemale", 
