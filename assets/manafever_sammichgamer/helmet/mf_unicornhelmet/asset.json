@@ -14,7 +14,7 @@
      ],
     "category": "helmet",
     "replaces": [],
-    "hides":[],
+    "hides":["hair"],
     "main": [
         {
             "type": "BaseMale", 
