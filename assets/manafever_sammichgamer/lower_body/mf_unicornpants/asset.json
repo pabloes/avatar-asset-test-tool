@@ -1,15 +1,15 @@
 {
     "name": "mf_unicornpants",
     "i18n": {
-      "en": "Mana-Fever unicorn pants of sammich gamer costume"
+      "en": "Unicorn pants"
     },
     "rarity": "legendary",
-    "description": "Pants with an awesome coloful unicorn tail",  
+    "description": "Unicorn pants of sammich gamer costume. By Mana-fever 2020 ©",  
     "tags": [
         "manafever",
         "sammichgame",
         "sammich",
-        "game"
+        "game",
     ],
     "category": "lower_body",
     "replaces":[],
