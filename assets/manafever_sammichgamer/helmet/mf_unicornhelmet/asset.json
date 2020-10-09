@@ -18,11 +18,11 @@
     "main": [
         {
             "type": "BaseMale", 
-            "model": "F_Helmet.glb"
+            "model": "M_Helmet.glb"
         },
         {
             "type": "BaseFemale", 
-            "model": "M_Helmet.glb"
+            "model": "F_Helmet.glb"
         }
     ]
 }  
