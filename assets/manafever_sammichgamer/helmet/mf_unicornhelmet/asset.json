@@ -1,28 +1,38 @@
 {
-    "name": "mf_unicornhelmet",
-    "i18n": {
-      "en": "Skater unicorn helmet"
-    },
-    "rarity": "legendary",
-    "description": "A colorful unicorn skater helmet for sammich gamer costume. By Mana-fever 2020 ©",
-    "tags": [
-        "manafever",
-        "sammichgame",
-        "sammich",
-        "game",
-        "unicorn"
-     ],
-    "category": "helmet",
-    "replaces": [],
-    "hides":["facial_hair", "hair"],
-    "main": [
-        {
-            "type": "BaseMale", 
-            "model": "M_Helmet.glb"
-        },
-        {
-            "type": "BaseFemale", 
-            "model": "F_Helmet.glb"
-        }
-    ]
-}  
+  "name": "mythic_kraken_hat",
+  "i18n": {
+    "en": "Mighty Kraken hat",
+    "es": "Poderoso sombrero de Kraken"
+  },
+  "tags": [
+    "hat",
+    "exclusive",
+    "helmet",
+    "octopus",
+    "kraken",
+    "cex",
+    "exchange",
+    "mythic"
+   ],
+  "category": "hat",
+  "replaces": [
+    "helmet"
+   ],
+   "hides": [
+    "eyewear","hair"
+   ],
+
+  "main": [
+{
+"type": "BaseMale", 
+"model": "m_kraken_hat.glb", 
+"overrideReplaces": [
+   ],
+   "overrideHides": [
+   ]
+},
+{"type": "BaseFemale", "model": "f_kraken_hat.glb"}
+  ],
+  "rarity": "mythic",
+"description": "Given away during the 2020 Kraken DCL event"
+}
